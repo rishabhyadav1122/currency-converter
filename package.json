@@ -1,6 +1,6 @@
 {
   "name": "06currencyconvertor",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d dist" 
   },
   "homepage": "https://rishabhyadav1122.github.io/currency-converter",
   "dependencies": {
