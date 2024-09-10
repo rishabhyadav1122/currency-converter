@@ -1,4 +1,5 @@
 {
+   "homepage": "https://rishabhyadav1122.github.io/currency-converter",
   "name": "06currencyconvertor",
   "private": false,
   "version": "0.0.0",
@@ -11,7 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist" 
   },
-  "homepage": "https://rishabhyadav1122.github.io/currency-converter",
+ 
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
